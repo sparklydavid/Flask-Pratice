@@ -1,2 +1,4 @@
 # flask-pratice
- Flask & Python Pratice
+ Flask (Python) Pratice
+Simple Login/SignUp
+need some adjustment...
